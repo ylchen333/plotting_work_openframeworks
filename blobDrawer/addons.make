@@ -1,0 +1,5 @@
+ofxOpenCv
+ofxPolylinesToSVG
+ofxSvg
+ofxVectorGraphics
+ofxXmlSettings
